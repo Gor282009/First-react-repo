@@ -1,7 +1,7 @@
-import Form from "./form"
+import Header from "./header"
 function App() {
   return (
-    <Form/>
+    <Header />
   )
 }
 
