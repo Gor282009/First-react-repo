@@ -1,4 +1,4 @@
-import Header from "./header"
+import Header from "../src/header"
 function App() {
   return (
     <Header />
